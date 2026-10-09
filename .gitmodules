@@ -1,5 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "DRLAP2"]
+	path = DRLAP2
+	url = https://github.com/cran/DRLAP2
+[submodule "DropCens"]
+	path = DropCens
+	url = https://github.com/cran/DropCens
+[submodule "PINNProgCens"]
+	path = PINNProgCens
+	url = https://github.com/cran/PINNProgCens
+[submodule "ProgVine"]
+	path = ProgVine
+	url = https://github.com/cran/ProgVine
+[submodule "fuzzyurn"]
+	path = fuzzyurn
+	url = https://github.com/cran/fuzzyurn
+[submodule "ghcclm"]
+	path = ghcclm
+	url = https://github.com/cran/ghcclm
+[submodule "pcsclr"]
+	path = pcsclr
+	url = https://github.com/cran/pcsclr
+[submodule "robustrcp"]
+	path = robustrcp
+	url = https://github.com/cran/robustrcp
+[submodule "weatherMRJD"]
+	path = weatherMRJD
+	url = https://github.com/cran/weatherMRJD
